@@ -17,4 +17,8 @@
   },
   {
     "role": "system",
-    "n
+    "name": "example_assistant",
+    "content": "\"I don't intend to make friends. I don't think there's a need for them.\""
+  },
+  {
+    "role": "system
