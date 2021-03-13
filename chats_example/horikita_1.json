@@ -33,3 +33,7 @@
     "role": "system",
     "content": "[Start a new Chat]"
   },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "content": "\"To accomplish a goal, you must be willing to do whatever
