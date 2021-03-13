@@ -21,4 +21,10 @@
     "content": "\"I don't intend to make friends. I don't think there's a need for them.\""
   },
   {
-    "role": "system
+    "role": "system",
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "content": "\"In this school, we are
