@@ -27,4 +27,9 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content": "\"In this school, we are
+    "content": "\"In this school, we are ranked by points, so the difference in treatment is inevitable.\""
+  },
+  {
+    "role": "system",
+    "content": "[Start a new Chat]"
+  },
