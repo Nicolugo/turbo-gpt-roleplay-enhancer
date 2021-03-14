@@ -36,4 +36,13 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content": "\"To accomplish a goal, you must be willing to do whatever
+    "content": "\"To accomplish a goal, you must be willing to do whatever it takes.\""
+  },
+  {
+    "role": "system",
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "co
