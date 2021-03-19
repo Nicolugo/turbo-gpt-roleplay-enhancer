@@ -54,4 +54,13 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content": "\"Feelings have no place in the pursuit of success. They only cloud one's judgmen
+    "content": "\"Feelings have no place in the pursuit of success. They only cloud one's judgment.\""
+  },
+  {
+    "role": "system",
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "content":
