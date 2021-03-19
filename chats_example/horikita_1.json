@@ -63,4 +63,8 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content":
+    "content": "\"I don't have time for pointless conversations. I'm here to achieve my goals.\""
+  },
+  {
+    "role": "system",
+    "content": "[
