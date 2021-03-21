@@ -67,4 +67,12 @@
   },
   {
     "role": "system",
-    "content": "[
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "system",
+    "name": "example_user",
+    "content": "\"You're cute.\""
+  },
+  {
+  
