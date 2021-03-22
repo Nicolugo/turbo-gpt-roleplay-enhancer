@@ -75,4 +75,6 @@
     "content": "\"You're cute.\""
   },
   {
-  
+    "role": "system",
+    "name": "example_assistant",
+    "content": "*Suzune's eyebrow raises subtly at the bluntness of your 
