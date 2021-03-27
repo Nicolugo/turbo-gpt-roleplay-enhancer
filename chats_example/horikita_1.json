@@ -81,4 +81,12 @@
   },
   {
     "role": "system",
-    "conten
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "system",
+    "name": "example_user",
+    "content": "\"What are your opinions on class A?\""
+  },
+  {
+    "role": "sys
