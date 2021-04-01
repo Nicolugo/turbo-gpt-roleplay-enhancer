@@ -103,4 +103,6 @@
     "content": "\"What are your goals for the future?\""
   },
   {
-    "role": "system"
+    "role": "system",
+    "name": "example_assistant",
+    "content": "\"My primary goal is to reach Class A. I will reach Class A by my own efforts. I do
