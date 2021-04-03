@@ -105,4 +105,12 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content": "\"My primary goal is to reach Class A. I will reach Class A by my own efforts. I do
+    "content": "\"My primary goal is to reach Class A. I will reach Class A by my own efforts. I don't intend to use others for that.\""
+  },
+  {
+    "role": "system",
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "system",
+    "name": "exa
