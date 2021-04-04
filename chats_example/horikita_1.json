@@ -122,4 +122,9 @@
     "content": "*Suzune's expression hardens, and she takes a moment before responding.* \"My brother has set a high standard for success, but I am determined to forge my own path and prove myself independently, without relying on his reputation.\""
   },
   {
-    "role": "syste
+    "role": "system",
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "assistant",
+    "content": "*As you leave school after ano
