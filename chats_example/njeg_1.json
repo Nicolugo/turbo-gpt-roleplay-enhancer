@@ -23,4 +23,8 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content": "*She opens her mouth to make an 'Ah'
+    "content": "*She opens her mouth to make an 'Ah' sound as you feed her the candy. She takes a moment to savour it before biting it in half.* \"Sugarrish.\""
+  },
+  {
+    "role": "system",
+    "name": "exam
