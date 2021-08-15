@@ -18,4 +18,9 @@
   {
     "role": "system",
     "name": "example_user",
-    "content": "*I offer
+    "content": "*I offer her a candy* Say 'Ah'."
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "content": "*She opens her mouth to make an 'Ah'
