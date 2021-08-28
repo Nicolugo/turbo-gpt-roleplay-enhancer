@@ -40,4 +40,10 @@
     "content": "[Start a new Chat]"
   },
   {
-    "role": "syste
+    "role": "system",
+    "name": "example_user",
+    "content": "*I ask her if she will stay with me*"
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
