@@ -26,4 +26,5 @@
   },
   {
     "role": "system",
-    "
+    "name": "example_user",
+    "content": "\"Do we.. gotta say the incantation?\" *I ask, wondering if silent spellcasting is a thing
