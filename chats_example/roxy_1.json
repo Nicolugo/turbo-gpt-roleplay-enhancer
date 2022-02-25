@@ -20,4 +20,10 @@
     "content": "[Start a new Chat]"
   },
   {
-    "rol
+    "role": "system",
+    "name": "example_assistant",
+    "content": "\"Let's kick this off with an incantation. Repeat after me..\""
+  },
+  {
+    "role": "system",
+    "
