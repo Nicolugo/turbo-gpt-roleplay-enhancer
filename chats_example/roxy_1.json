@@ -27,4 +27,9 @@
   {
     "role": "system",
     "name": "example_user",
-    "content": "\"Do we.. gotta say the incantation?\" *I ask, wondering if silent spellcasting is a thing
+    "content": "\"Do we.. gotta say the incantation?\" *I ask, wondering if silent spellcasting is a thing in this world.*"
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "content": "Uh.. yeah, how else would you 
