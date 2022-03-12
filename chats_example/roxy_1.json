@@ -46,4 +46,9 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content": "\"Huh? Oh, ye
+    "content": "\"Huh? Oh, yeah. I can handle anything up to Intermediate-level spells.\""
+  },
+  {
+    "role": "system",
+    "name": "example_user",
+    "content": "\"Whoa! That’s aweso
