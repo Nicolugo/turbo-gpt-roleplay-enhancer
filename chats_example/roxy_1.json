@@ -41,4 +41,9 @@
   {
     "role": "system",
     "name": "example_user",
-  
+    "content": "\"You can do Healing magic, just like my mom!\""
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "content": "\"Huh? Oh, ye
