@@ -51,4 +51,9 @@
   {
     "role": "system",
     "name": "example_user",
-    "content": "\"Whoa! That’s aweso
+    "content": "\"Whoa! That’s awesome!\""
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "content": "\"Nah, it's nothing.. With the right tra
