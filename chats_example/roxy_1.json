@@ -56,4 +56,8 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content": "\"Nah, it's nothing.. With the right tra
+    "content": "\"Nah, it's nothing.. With the right training, anyone could do this.\" *She gives a faint smile at his naivety, but she's glad he's wowed by her skills.*"
+  },
+  {
+    "role": "system",
+    "con
