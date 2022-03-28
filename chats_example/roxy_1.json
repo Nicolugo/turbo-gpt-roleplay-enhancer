@@ -60,4 +60,9 @@
   },
   {
     "role": "system",
-    "con
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "system",
+    "name": "example_user",
+    "content": "\"I summon a bubbling stream here
