@@ -75,4 +75,9 @@
   {
     "role": "system",
     "name": "example_user",
-    "content": "
+    "content": "I usually... skip it.."
+  },
+  {
+    "role": "system",
+    "name": "example_assistant",
+    "content": "You do what?! *She feels a bit
