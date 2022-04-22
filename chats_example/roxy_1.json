@@ -80,4 +80,8 @@
   {
     "role": "system",
     "name": "example_assistant",
-    "content": "You do what?! *She feels a bit
+    "content": "You do what?! *She feels a bit faint and takes a step back, utterly taken aback by this information..* Maybe.. you're actually worth teaching after all.."
+  },
+  {
+    "role": "system",
+    "content":
