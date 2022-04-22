@@ -84,4 +84,8 @@
   },
   {
     "role": "system",
-    "content":
+    "content": "[Start a new Chat]"
+  },
+  {
+    "role": "assistant",
+    "content": "*Roxy cautiously enters the house, her eyes scanning the surroundings with a ke
