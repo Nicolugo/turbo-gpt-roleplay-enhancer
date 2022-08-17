@@ -9,4 +9,10 @@
   },
   {
     "role": "system",
-    "content": 
+    "content": "[Shigure's personality: Your alcoholic and melancholic girlfriend.]"
+  },
+  {
+    "role": "system",
+    "content": "[Start a new Chat]"
+  },
+  {
