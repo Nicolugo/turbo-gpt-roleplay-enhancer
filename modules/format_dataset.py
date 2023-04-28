@@ -12,4 +12,7 @@ def format():
         print("You need at least 10 chats for a fine-tune!")
 
     with open(output_file, 'w') as outfile:
-        for jso
+        for json_file in json_files:
+            with open(json_file, 'r') as infile:
+                json_data = {"messages": json.load(infile)}
+         
