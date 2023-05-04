@@ -15,4 +15,4 @@ def format():
         for json_file in json_files:
             with open(json_file, 'r') as infile:
                 json_data = {"messages": json.load(infile)}
-         
+                outfile.write(json.dumps(json_data) + '\n')
